@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1528230582 source:d:\user\juan\mis documentos\algoritmos i\trabajo_especial\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Lista.h"
+	"Arbol.h"
+
+1528234963 source:d:\user\juan\mis documentos\algoritmos i\trabajo_especial\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1528235396 d:\user\juan\mis documentos\algoritmos i\trabajo_especial\include\lista.h
+	<iostream>
+
+1528234963 source:d:\user\juan\mis documentos\algoritmos i\trabajo_especial\src\arbol.cpp
+	<iostream>
+	"Arbol.h"
+	"Lista.h"
+
+1528234963 d:\user\juan\mis documentos\algoritmos i\trabajo_especial\include\arbol.h
+	<iostream>
+	"Lista.h"
+
+1528230582 source:d:\usuario\juan\documents\algoritmos\trabajo_especial\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Lista.h"
+	"Arbol.h"
+
+1528234963 source:d:\usuario\juan\documents\algoritmos\trabajo_especial\src\arbol.cpp
+	<iostream>
+	"Arbol.h"
+	"Lista.h"
+
+1528234963 d:\usuario\juan\documents\algoritmos\trabajo_especial\include\arbol.h
+	<iostream>
+	"Lista.h"
+
+1528234963 source:d:\usuario\juan\documents\algoritmos\trabajo_especial\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1528235396 d:\usuario\juan\documents\algoritmos\trabajo_especial\include\lista.h
+	<iostream>
+
+1527886496 source:c:\users\cordo\desktop\c++\trabajo_especial\src\arbol.cpp
+	<iostream>
+	"Arbol.h"
+	"Lista.h"
+
+1527886496 c:\users\cordo\desktop\c++\trabajo_especial\include\arbol.h
+	<iostream>
+	"Lista.h"
+
+1527957066 c:\users\cordo\desktop\c++\trabajo_especial\include\lista.h
+	<iostream>
+
+1527957066 source:c:\users\cordo\desktop\c++\trabajo_especial\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1527965752 source:c:\users\cordo\desktop\c++\trabajo_especial\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"Lista.h"
+	"Arbol.h"
+

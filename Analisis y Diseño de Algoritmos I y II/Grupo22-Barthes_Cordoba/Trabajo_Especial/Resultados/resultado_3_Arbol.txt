@@ -1,0 +1,6 @@
+﻿mesenterio, existe, costo: 1
+jugárnosla, no existe, costo: 24
+respondón, no existe, costo: 23
+Algoritmos, no existe, costo: 14
+suizo, existe, costo: 21
+completar, existe, costo: 24

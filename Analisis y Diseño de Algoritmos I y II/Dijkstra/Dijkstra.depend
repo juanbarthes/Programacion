@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556850143 source:e:\user\juan\mis documentos\algoritmos i\dijkstra\src\sets.cpp
+	"sets.h"
+	"assert.h"
+
+1556850143 e:\user\juan\mis documentos\algoritmos i\dijkstra\include\sets.h
+
+1556856370 source:e:\user\juan\mis documentos\algoritmos i\dijkstra\main.cpp
+	<iostream>
+	"GrafoND.h"
+	"Sets.h"
+
+1556850143 e:\user\juan\mis documentos\algoritmos i\dijkstra\include\grafond.h
+	<list>
+	<map>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556767003 source:c:\users\sebastian\desktop\2 año de ingenieria\analisis y diseño  de algoritmo ii\c++\juan\main.cpp
+	<iostream>
+	"GrafoND.h"
+	"Sets.h"
+
+1556765302 c:\users\sebastian\desktop\2 año de ingenieria\analisis y diseño  de algoritmo ii\c++\juan\include\grafond.h
+	<list>
+	<map>
+
+1556766057 c:\users\sebastian\desktop\2 año de ingenieria\analisis y diseño  de algoritmo ii\c++\juan\include\sets.h
+
+1556766311 source:c:\users\sebastian\desktop\2 año de ingenieria\analisis y diseño  de algoritmo ii\c++\juan\src\sets.cpp
+	"sets.h"
+	"assert.h"
+
+1556766311 source:e:\user\juan\mis documentos\algoritmos i\kruskal\src\sets.cpp
+	"sets.h"
+	"assert.h"
+
+1556766057 e:\user\juan\mis documentos\algoritmos i\kruskal\include\sets.h
+
+1556767368 source:e:\user\juan\mis documentos\algoritmos i\kruskal\main.cpp
+	<iostream>
+	"GrafoND.h"
+	"Sets.h"
+
+1556765302 e:\user\juan\mis documentos\algoritmos i\kruskal\include\grafond.h
+	<list>
+	<map>
+

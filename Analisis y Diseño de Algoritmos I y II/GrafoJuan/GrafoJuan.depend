@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555025170 source:e:\user\juan\mis documentos\algoritmos i\fede\grafojuan\main.cpp
+	<iostream>
+	"GrafoD.h"
+
+1555024734 e:\user\juan\mis documentos\algoritmos i\fede\grafojuan\include\grafod.h
+	<list>
+	<map>
+

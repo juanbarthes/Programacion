@@ -1,0 +1,6 @@
+﻿receptividad, existe, costo: 1
+expender, existe, costo: 29
+frecuente, existe, costo: 17
+Algoritmos, no existe, costo: 12
+centellear, existe, costo: 16
+gruir, existe, costo: 20

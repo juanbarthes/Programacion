@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559082808 source:e:\user\juan\mis documentos\algoritmos i\mochila\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+

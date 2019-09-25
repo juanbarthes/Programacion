@@ -1,0 +1,6 @@
+﻿dichoso, existe, costo: 1
+coreografiar, existe, costo: 19
+restricto, existe, costo: 11
+Algoritmos, no existe, costo: 18
+terneza, existe, costo: 13
+revelación, no existe, costo: 13

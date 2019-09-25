@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556813926 source:d:\usuario\juan\documents\algoritmos\prim\main.cpp
+	<iostream>
+	"GrafoND.h"
+
+1556814021 d:\usuario\juan\documents\algoritmos\prim\include\grafond.h
+	<list>
+	<map>
+
+1556848764 source:e:\user\juan\mis documentos\algoritmos i\prim\main.cpp
+	<iostream>
+	"GrafoND.h"
+
+1556814021 e:\user\juan\mis documentos\algoritmos i\prim\include\grafond.h
+	<list>
+	<map>
+

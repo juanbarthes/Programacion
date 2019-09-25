@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1562336249 source:e:\user\juan\mis documentos\algoritmos i\area_poligono\main.cpp
+	<iostream>
+	"punto.h"
+	"segmento.h"
+	<list>
+	"iterator"
+
+1561408376 source:e:\user\juan\mis documentos\algoritmos i\area_poligono\src\punto.cpp
+	"punto.h"
+	"cmath"
+
+1561408376 e:\user\juan\mis documentos\algoritmos i\area_poligono\include\punto.h
+
+1561406668 source:e:\user\juan\mis documentos\algoritmos i\area_poligono\src\segmento.cpp
+	"segmento.h"
+
+1561406668 e:\user\juan\mis documentos\algoritmos i\area_poligono\include\segmento.h
+	"punto.h"
+
