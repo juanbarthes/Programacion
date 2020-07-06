@@ -1,0 +1,55 @@
+.encabezado {
+    position: relative;
+    height: 150px;
+    top: 10px;
+    text-align: left;
+    background-color: #CCCCCC;
+  }
+  
+  .logo {
+    position: absolute;
+    width: 300px;
+    top: 25px;
+    left: 10px;
+    border: 1px solid white;
+    background-color: #003366;
+    color: white;
+  }
+  
+  .menu {
+    position: absolute;
+    width: 400px;
+    top: 40px;
+    right: 10px;
+    border: 1px solid white;
+    background-color: #660000;
+    color: white;
+  }
+  
+  .izquierda {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: #333333;
+    color: white;
+  }
+  
+  .centro {
+    float: right;
+    width: 200px;
+    background-color: #99cc33;
+    color: white;
+    border: 1px solid blue;
+  }
+  
+  .derecha {
+    float: right;
+    width: 200px;
+    background-color: #666666;
+    color: white;
+  }
+  div.pie {
+    clear: both;
+    background-color: #00CCFF;
+  }
+  

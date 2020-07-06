@@ -1,0 +1,69 @@
+body {
+    margin: 0 auto;
+    background: white;
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div {
+    display: block;
+    width: 100%;
+    height: 50%;
+    padding: 5px;
+}
+
+.primera-fase{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.segunda-fase{
+    width: 99%;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.tercera-fase{
+    width: 99%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.cuarta-fase{
+    width: 99%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.final{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.ganador{
+}
+
+.participante{
+height: 90%;
+width: 3%;
+border: solid 1px black;
+border-radius: 10px;
+margin: 5px auto;
+}

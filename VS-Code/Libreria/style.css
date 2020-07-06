@@ -1,0 +1,106 @@
+body {
+    width: 1280px;
+    height: 720px;
+    background-image: url(imagenes/background.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10px;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+    flex-wrap: nowrap;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius:10px;
+    border: solid white 3px;
+    padding: 2px;
+    overflow: hidden;
+    color: black;
+}
+
+.social-net {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    margin: 2px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: solid rgb(0, 153, 255);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    border: solid rgb(0, 153, 255);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(247, 226, 40);
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.book {
+    width: 49%;
+    height: 49%;
+}
+
+.icon {
+    width: 40%;
+    height: 20%;
+    padding: 0 0 0 100px;
+}
+
+footer {
+    border: solid rgb(0, 153, 255);
+    border-radius: 10px;
+    padding: 5px;
+}
+form {
+    margin: 5px;
+    padding: 5px;
+}
+
+table, td, tr {
+    border-collapse: collapse;
+    border: solid black 3px;
+}
+
+th {
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+
+tbody {
+    background-color: crimson;
+}
+
+tfoot {
+    background-color: rgb(138, 14, 39);
+    border-collapse: collapse;
+}

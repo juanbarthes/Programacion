@@ -1,0 +1,57 @@
+body {
+    background-color: cadetblue;
+}
+.Header {
+    background-color: brown;
+    color: blanchedalmond;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+
+}
+
+.Content {
+    background-color: red;
+    color: blanchedalmond;
+    height: 650px;
+    border: solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Left {
+    float: left;
+    padding: 2px;
+    border: 2px solid black;
+    margin-right: 5px;
+    height: 90%;
+    width: 48%;
+    display: inline-block;
+}
+
+.Right {
+    float: right;
+    padding: 2px;
+    border: 2px solid black;
+    margin-left: 5px;
+    height: 90%;
+    width: 50%;
+    display: inline-block;
+}
+
+.Footer {
+    background: royalblue;
+    color: blanchedalmond;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    border: solid black;
+}
+
+.Op {
+    width: 30%;
+    display: inline-block;
+    padding: 2px;
+    border: solid black;
+}

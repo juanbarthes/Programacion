@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(24, 24, 24);
+    font-family: fantasy;
+}
+
+p {
+    color: darkorange;
+}
+
+
+
+.ListaPunto {
+    list-style-type: circle;
+    color: cornsilk;
+}
+
+.ListaSquare {
+    list-style-type: square;
+    color: dodgerblue;
+}
+
+ol {
+    list-style-type: lower-alpha;
+    color: honeydew;
+}
+
+#ordenada {
+    color: rgb(67, 0, 250);
+}
+
+#desordenadas {
+    color: rgb(207, 167, 167);
+}
