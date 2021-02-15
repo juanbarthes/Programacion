@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="app">
+        <h1>Lista de Frutas</h1>
+        <label for="fruitName">Fruta: </label>
+        <input type="text" name="fruitName" id="fruitName" v-model="newFruit">
+        <label for="fruitQuantity">Cantidad: </label>
+        <input type="text" name="fruitQuantity" id="fruitQuantity">
+        <button v-on:click="addFruit">Agregar</button>
+        <ul class="fruits">
+            <li v-for='fruit of fruits'>{{fruit.name}} x{{fruit.quantity}}</li>
+        </ul>
+    </div>
+    <!-- VueJS development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <script src="frutas.js"></script>
+</body>
+
+</html>
